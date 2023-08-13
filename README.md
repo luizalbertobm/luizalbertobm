@@ -14,8 +14,8 @@ Crafting solutions for optimized school bus routes and a meticulous employee con
 
 - **PHP Mastery**: Well-versed with major PHP frameworks including Symfony and Laravel.
 - **Front-end Craft**: Proficient with JavaScript and modern web technologies.
-- **Mobile Development**: Delivering responsive and efficient mobile solutions mainly using flutter.
-- **Agile Enthusiast**: A staunch advocate for Agile methodologies, ensuring adaptable and iterative software development.
+- **Mobile Development**: Delivering responsive and efficient mobile solutions mainly using Flutter.
+- **Agile Enthusiast**: A staunch advocate for Agile methodologies as Scrum, ensuring adaptable and iterative software development.
 
 Fancy a chat about tech, collaboration, or potential opportunities? Let's connect! 🔗 luizalbertobm@gmail.com
 <!---
