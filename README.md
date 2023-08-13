@@ -2,13 +2,13 @@
 
 ## 📌 Recent Professional Highlights:
 
-- **Pivot88**: As a PHP Software Engineer, I've been the driving force behind the development and maintenance of their vital supply chain software, utilizing a rich tech stack. 🌐 Details
-- **Neobrain**: I played a pivotal role in HR application development and championed the transformation of our git processes for a swifter and more agile development cycle. 🌐 Details
-- **Further Learning Group**: As a Full-Stack Developer, I steered the development of the company's academic management software, with key features like APIs for student areas and course websites. My passion for continuous improvement led me to redefine the onboarding process for new team members, streamlining the development environment from Vagrant to Docker. 🌐 Details
+- **Pivot88**: As a PHP Software Engineer, I've been the driving force behind the development and maintenance of their vital supply chain software, utilizing a rich tech stack. 
+- **Neobrain**: I played a pivotal role in HR application development and championed the transformation of our git processes for a swifter and more agile development cycle.
+- **Further Learning Group**: As a Full-Stack Developer, I steered the development of the company's academic management software, with key features like APIs for student areas and course websites. My passion for continuous improvement led me to redefine the onboarding process for new team members, streamlining the development environment from Vagrant to Docker.
 - **Education Secretary of Ceará – SEDUC**: My decade-long journey here was marked by:
-The birth of "Aluno Online" and "Professor Online" portals, touching over 400,000 lives. 🌐 Student Link | 🌐 Teacher Link
+The birth of "Aluno Online" and "Professor Online" portals, touching over 400,000 lives.
 Innovations like a Literacy Aid Software and a game-based University Admittance Exam App.
-Crafting solutions for optimized school bus routes and a meticulous employee contract & salary management system. 🌐 Details
+Crafting solutions for optimized school bus routes and a meticulous employee contract & salary management system.
 
 ## 💼 Here's a snapshot of my expertise:
 
