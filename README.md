@@ -1,4 +1,4 @@
-👋 Hello there! I'm Luiz Mesquita, a software developer, currently based in Portugal, bringing over 18 years of solid expertise in both front-end and back-end development to the table. My journey in tech has been marked by deep engagements with PHP, its notable frameworks like Symfony and Laravel, JavaScript, mobile development, and a staunch advocacy for Agile methodologies. 🚀
+👋 Hi! I'm Luiz Mesquita, a software developer currently based in Portugal. With a career spanning since 2005, I've built a strong foundation in both front-end and back-end development. My expertise includes PHP, particularly with frameworks like Symfony and Laravel, as well as JavaScript with React and mobile development using Flutter. I'm also a firm advocate of Agile methodologies, ensuring efficient and collaborative software delivery. 🚀
 
 ## 📌 Recent Professional Highlights:
 
