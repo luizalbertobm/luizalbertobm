@@ -1,30 +1,37 @@
-👋 Hi! I'm Luiz Mesquita, a software developer currently based in Portugal. With a career spanning since 2005, I've built a strong foundation in both front-end and back-end development. My expertise includes PHP, particularly with frameworks like Symfony and Laravel, as well as JavaScript with React and mobile development using Flutter. I'm also a firm advocate of Agile methodologies, ensuring efficient and collaborative software delivery. 🚀
+👋 Hey there! I'm Luiz Mesquita, a software developer currently living in Portugal. Since 2005, I've been passionate about crafting clean and effective digital solutions. I specialize in full-stack development, particularly in PHP (Symfony & Laravel), JavaScript (React), and mobile apps built with Flutter. I'm a big believer in Agile methods, promoting teamwork and continuous improvement in every project I tackle. 🚀
 
 ## 📌 Recent Professional Highlights:
 
-#### Mobilexpense (Belgium)
-As a PHP/Symfony Software Engineer, I focus on enhancing a B2B financial platform that helps companies and employees efficiently manage their expenses.
-#### Pivot88 (Canada)
-As a PHP Software Engineer, I've been a driving force behind the development and maintenance of their vital supply chain software, utilizing a rich tech stack. 
-#### Neobrain (France)
-I played a pivotal role in HR application development and championed the transformation of our git processes for a swifter and more agile development cycle.
-#### Further Learning Group (Ireland)
-As a Full-Stack Developer, I steered the development of the company's academic management software, with key features like APIs for student areas and course websites. My passion for continuous improvement led me to redefine the onboarding process for new team members, streamlining the development environment migrating it from Vagrant to Docker where I could create a bunch of useful scripts to facilitade other developers work.
-#### Education Secretary of Ceará – Brazil
-My decade-long journey here was marked by:
-The birth of "Aluno Online" and "Professor Online" portals, touching over 400,000 lives.
-Innovations like a Literacy Aid Software and a game-based University Admittance Exam App.
-Crafting solutions for optimized school bus routes and a meticulous employee contract & salary management system.
+### Mobilexpense | Belgium
 
-## 💼 Here's a snapshot of my expertise:
+**PHP/Symfony Software Engineer**
+Enhancing a robust B2B financial platform designed to streamline expense management processes for companies and employees, driving efficiency and user satisfaction.
 
-- **PHP Mastery**: Well-versed with major PHP frameworks including Symfony and Laravel.
-- **Front-end Craft**: Proficient with JavaScript and modern web technologies.
-- **Mobile Development**: Delivering responsive and efficient mobile solutions mainly using Flutter.
-- **Agile Enthusiast**: A staunch advocate for Agile methodologies as Scrum, ensuring adaptable and iterative software development.
+### Pivot88 | Canada
 
-Fancy a chat about tech, collaboration, or potential opportunities? Let's connect! 🔗 luizalbertobm@gmail.com
-<!---
-luizalbertobm/luizalbertobm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**PHP Software Engineer**
+Contributed significantly to the development and ongoing maintenance of sophisticated supply chain software, utilizing an extensive tech stack to ensure reliability and performance.
+
+### Neobrain | France
+
+**Software Developer**
+Played an essential role in developing HR-focused applications and led transformative improvements in git workflow, significantly accelerating the development lifecycle.
+
+### Further Learning Group | Ireland
+
+**Full-Stack Developer**
+Led the development of academic management software, including APIs for student engagement and course websites. I streamlined our onboarding processes by transitioning from Vagrant to Docker, enhancing developer productivity through innovative scripting solutions.
+
+### Education Secretary of Ceará | Brazil
+
+**Software Developer & Innovator (10+ years)**
+Created impactful educational platforms such as "Aluno Online" and "Professor Online," reaching over 400,000 users. Innovated through literacy software and gamified university entrance applications, alongside solutions for optimized transportation logistics and employee management systems.
+
+## 💼 Expertise at a Glance:
+
+* **PHP Specialist**: Deep expertise in Symfony and Laravel frameworks.
+* **Front-End Engineering**: Skilled in JavaScript, React, and responsive design.
+* **Mobile Solutions**: Proficient in creating seamless mobile experiences using Flutter.
+* **Agile Practitioner**: Strong advocate of Scrum and Agile methodologies to deliver adaptive, high-quality software.
+
+I’m always open to discussing tech, collaboration, or exploring new opportunities—let’s connect! 📧 [luizalbertobm@gmail.com](mailto:luizalbertobm@gmail.com)
